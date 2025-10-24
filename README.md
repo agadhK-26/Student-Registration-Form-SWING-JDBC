@@ -1,0 +1,1 @@
+A Java Swing-based Student Registration application with a modern, colorful interface. Users can enter and validate student details, store them automatically in a MySQL database, and manage student records efficiently with an intuitive and responsive user-friendly design.
