@@ -11,7 +11,7 @@ public class StudentRegistrationFormJDBC extends JFrame {
     // JDBC Variables
     private final String DB_URL = "jdbc:mysql://localhost:3306/studentdb";
     private final String DB_USER = "root";
-    private final String DB_PASS = "agadhk";
+    private final String DB_PASS = "####";
 
     public StudentRegistrationFormJDBC() {
         setTitle("Student Registration Form");
